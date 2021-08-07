@@ -55,6 +55,8 @@ p {
 .list-inline {
   list-style: none;
   padding: 5px;
+  display: flex;
+  justify-content: space-around;
 }
 
 .list-inline li {
